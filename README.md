@@ -2,7 +2,7 @@
   
 This repository contains my coding experiments and samples of my work in writing and document design. Check the links below for examples:  
 ## C# Projects
-- [Number Guessing Game](https://github.com/davidpaulwilson01/Portfolio/tree/main/C%23%20Projects/01%20Number%20Guessing%20Game)
+- [Number Guesser v1](https://github.com/davidpaulwilson01/Portfolio/tree/main/C%23%20Projects/01%20Number%20Guessing%20Game)
 
 ## General Writing Samples  
 - [Research Paper - Kanban Methodology](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Writing%20Samples/Research%20Paper%20-%20Kanban%20Methodology.pdf)
