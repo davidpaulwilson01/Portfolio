@@ -1,0 +1,30 @@
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\bin\Debug\net7.0\NumberGenerator.exe
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\bin\Debug\net7.0\NumberGenerator.deps.json
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\bin\Debug\net7.0\NumberGenerator.runtimeconfig.json
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\bin\Debug\net7.0\NumberGenerator.dll
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\bin\Debug\net7.0\NumberGenerator.pdb
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.csproj.AssemblyReference.cache
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.AssemblyInfoInputs.cache
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.AssemblyInfo.cs
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.dll
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\refint\NumberGenerator.dll
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.pdb
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\NumberGenerator.genruntimeconfig.cache
+C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGenerator\NumberGenerator\obj\Debug\net7.0\ref\NumberGenerator.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\bin\Debug\net7.0\NumberGenerator.exe
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\bin\Debug\net7.0\NumberGenerator.deps.json
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\bin\Debug\net7.0\NumberGenerator.runtimeconfig.json
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\bin\Debug\net7.0\NumberGenerator.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\bin\Debug\net7.0\NumberGenerator.pdb
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.csproj.AssemblyReference.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.AssemblyInfoInputs.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.AssemblyInfo.cs
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\refint\NumberGenerator.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.pdb
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\NumberGenerator.genruntimeconfig.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\obj\Debug\net7.0\ref\NumberGenerator.dll
