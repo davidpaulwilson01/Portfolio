@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e1eve\\Documents\\Visual Studio 2022\\Projects\\NumberGuesserWinForm\\NumberGuesserWinForm\\NumberGuesserWinForm.csproj",
+      "projectUniqueName": "C:\\Users\\e1eve\\Documents\\GitHub\\Portfolio\\Portfolio\\C# Projects\\01 Number Guessing Game\\WinForm Edition\\NumberGuesserWinForm\\NumberGuesserWinForm\\NumberGuesserWinForm.csproj",
       "projectName": "NumberGuesserWinForm",
-      "projectPath": "C:\\Users\\e1eve\\Documents\\Visual Studio 2022\\Projects\\NumberGuesserWinForm\\NumberGuesserWinForm\\NumberGuesserWinForm.csproj",
+      "projectPath": "C:\\Users\\e1eve\\Documents\\GitHub\\Portfolio\\Portfolio\\C# Projects\\01 Number Guessing Game\\WinForm Edition\\NumberGuesserWinForm\\NumberGuesserWinForm\\NumberGuesserWinForm.csproj",
       "packagesPath": "C:\\Users\\e1eve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e1eve\\Documents\\Visual Studio 2022\\Projects\\NumberGuesserWinForm\\NumberGuesserWinForm\\obj\\",
+      "outputPath": "C:\\Users\\e1eve\\Documents\\GitHub\\Portfolio\\Portfolio\\C# Projects\\01 Number Guessing Game\\WinForm Edition\\NumberGuesserWinForm\\NumberGuesserWinForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NumberGuesserWinForm
-build_property.ProjectDir = C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGuesserWinForm\NumberGuesserWinForm\
+build_property.ProjectDir = C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\

@@ -15,3 +15,20 @@ C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGuesserWinForm\Number
 C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.pdb
 C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.genruntimeconfig.cache
 C:\Users\e1eve\Documents\Visual Studio 2022\Projects\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\ref\NumberGuesserWinForm.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\bin\Debug\net7.0-windows\NumberGuesserWinForm.exe
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\bin\Debug\net7.0-windows\NumberGuesserWinForm.deps.json
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\bin\Debug\net7.0-windows\NumberGuesserWinForm.runtimeconfig.json
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\bin\Debug\net7.0-windows\NumberGuesserWinForm.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\bin\Debug\net7.0-windows\NumberGuesserWinForm.pdb
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.csproj.AssemblyReference.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.Form1.resources
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.csproj.GenerateResource.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.AssemblyInfoInputs.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.AssemblyInfo.cs
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.csproj.CoreCompileInputs.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\refint\NumberGuesserWinForm.dll
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.pdb
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\NumberGuesserWinForm.genruntimeconfig.cache
+C:\Users\e1eve\Documents\GitHub\Portfolio\Portfolio\C# Projects\01 Number Guessing Game\WinForm Edition\NumberGuesserWinForm\NumberGuesserWinForm\obj\Debug\net7.0-windows\ref\NumberGuesserWinForm.dll
