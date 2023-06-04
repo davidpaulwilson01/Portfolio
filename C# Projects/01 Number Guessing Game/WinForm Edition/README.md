@@ -2,8 +2,6 @@
 ## Last Update: Version 2.0, released on June 04, 2023
 ## Overview
 This simple game is based on an older project of the same name available [here](https://github.com/davidpaulwilson01/Portfolio/tree/main/C%23%20Projects/01%20Number%20Guessing%20Game/Console%20Edition). The object of the game is to guess a randomly selected number from 0 to 100. I began this project to teach myself how to develop Windows GUI applications in Windows Forms (Winform). It is fully playable in its current state.
-## Future Plans
-There are no plans to build on this game any further at this time. It has been replaced by the WinForm version available [here](https://github.com/davidpaulwilson01/Portfolio/tree/main/C%23%20Projects/01%20Number%20Guessing%20Game/WinForm%20Edition/NumberGuesserWinForm).
 ## Revision Log
 ### Version 1.0
 -Initial release.
