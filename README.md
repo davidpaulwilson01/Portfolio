@@ -8,6 +8,13 @@ My first project was a simple number-guessing game. The idea was to pick a rando
 - [Number Guesser Winform Edition v2](https://github.com/davidpaulwilson01/Portfolio/tree/main/C%23%20Projects/01%20Number%20Guessing%20Game/WinForm%20Edition/NumberGuesserWinForm)
 
 
+## Software Engineering Projects
+Starting on June 11, 2023, I decided to learn more about the larger process of Software Engineering (SWE) beyond just writing code. I intend to practice designing software artifacts and documentation for each of the following five phases of development in order: Requirements, Analysis, Design, Implementation, and Testing.
+### Book Inventory System (BIS)
+My first SWE project is an inventory management and sales tracking system intended for a single location bookstore. It should enable the user to search inventory, check stock on a given ISBN, place orders for new stock via "intake," make sales, add employees, and track customer loyalty program membership.
+- [BIS: Requirements](http://google.com)
+
+
 ## Writing Samples
 Over the course of my Computer Science degree, I learned to aim my fondness for writing in more technical directions. This section includes samples of my work in technical writing and document design, as well as a more general writing sample in the form of a research paper on the topic of Kanban.
 ### General Writing
