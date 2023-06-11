@@ -12,7 +12,7 @@ My first project was a simple number-guessing game. The idea was to pick a rando
 Starting on June 11, 2023, I decided to learn more about the larger process of Software Engineering (SWE) beyond just writing code. I intend to practice designing software artifacts and documentation for each of the following five phases of development in order: Requirements, Analysis, Design, Implementation, and Testing.
 ### Book Inventory System (BIS)
 My first SWE project is an inventory management and sales tracking system intended for a single location bookstore. It should enable the user to search inventory, check stock on a given ISBN, place orders for new stock via "intake," make sales, add employees, and track customer loyalty program membership.
-- [BIS: Requirements](http://google.com)
+- [BIS: Requirements](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/Requirements%20Workflow)
 
 
 ## Writing Samples
