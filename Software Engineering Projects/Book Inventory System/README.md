@@ -1,7 +1,7 @@
 # Book Inventory System README
 The Book Inventory System (BIS) is a self-guided learning project to help me develop skills in the larger process of software engineering. It is intended to serve as a simple inventory management and sales tracking application for small bookstores with single locations and fully physical stock. It allows the user to search inventory for specific books by ISBN, title, or author; make sales for multiple books at once; add or remove stock outside the context of sales; and track employees as well as those customers who sign up for the store loyalty program.
 
-Because this is an exercise in general software engineering, I will be developing software artifacts for each of the following five phases of development: Requirements, Analysis, Design, Implementation, and Testing. Following are links to artifact folders for each of the five phases:
+Because this is an exercise in general software engineering, I will be developing software artifacts for each of the five phases of the Unified Process: Requirements, Analysis, Design, Implementation, and Testing. Following are links to artifact folders for each of the five phases:
 - [Requirements](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/01%20Requirements%20Workflow)
 - [Analysis](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/02%20Analysis%20Workflow)
 
