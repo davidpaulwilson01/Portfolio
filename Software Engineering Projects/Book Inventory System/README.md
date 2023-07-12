@@ -4,6 +4,7 @@ The Book Inventory System (BIS) is a self-guided learning project to help me dev
 Because this is an exercise in general software engineering, I will be developing software artifacts for each of the five phases of the Unified Process: Requirements, Analysis, Design, Implementation, and Testing. Following are links to artifact folders for each of the five phases:
 - [Requirements](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/01%20Requirements%20Workflow)
 - [Analysis](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/02%20Analysis%20Workflow)
+- [Design](https://github.com/davidpaulwilson01/Portfolio/tree/development/Software%20Engineering%20Projects/Book%20Inventory%20System/03%20Design%20Workflow)
 
 
 ## Preliminary Schedule
