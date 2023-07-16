@@ -1,7 +1,7 @@
 # Welcome to David Wilson's Portfolio!  
 This repository contains my coding experiments and samples of my work in writing and document design.
 ## Spotlight: Book Inventory System Project
-Starting on June 11, 2023, I decided to learn more about the larger process of software engineering beyond just writing code. This includes designing software artifacts and documentation for each of the following five phases of development in order: Requirements, Analysis, Design, Implementation, and Testing. To that end, I am starting a project to design and implement an inventory management program for small bookstores. The link below leads to the main directory for that project.
+Starting on June 11, 2023, I decided to learn more about the larger process of software engineering beyond just writing code. This includes designing software artifacts and documentation for each of the following five phases of the Unified Process in order: Requirements, Analysis, Design, Implementation, and Testing. To that end, I am starting a project to design and implement an inventory management program for small bookstores. The link below leads to the main directory for that project.
 - [Book Inventory System](https://github.com/davidpaulwilson01/Portfolio/tree/main/Software%20Engineering%20Projects/Book%20Inventory%20System/)
 
 
