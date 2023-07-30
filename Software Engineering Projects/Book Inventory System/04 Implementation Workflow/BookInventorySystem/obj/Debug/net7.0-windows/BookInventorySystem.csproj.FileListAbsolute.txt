@@ -1,0 +1,17 @@
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\bin\Debug\net7.0-windows\BookInventorySystem.exe
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\bin\Debug\net7.0-windows\BookInventorySystem.deps.json
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\bin\Debug\net7.0-windows\BookInventorySystem.runtimeconfig.json
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\bin\Debug\net7.0-windows\BookInventorySystem.dll
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\bin\Debug\net7.0-windows\BookInventorySystem.pdb
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.csproj.AssemblyReference.cache
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.MainScreen.resources
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.csproj.GenerateResource.cache
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.AssemblyInfoInputs.cache
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.AssemblyInfo.cs
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.dll
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\refint\BookInventorySystem.dll
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.pdb
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\BookInventorySystem.genruntimeconfig.cache
+C:\Users\e1eve\source\repos\BIS\BookInventorySystem\BookInventorySystem\obj\Debug\net7.0-windows\ref\BookInventorySystem.dll
